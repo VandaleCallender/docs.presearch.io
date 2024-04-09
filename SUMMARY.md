@@ -45,14 +45,14 @@
 
 ## PreGPT AI <a href="#pregpt" id="pregpt"></a>
 
-* [⭐ What is PreGPT AI ?](pregpt/what-is-presearch-engine.md)
+* [⭐ What is PreGPT AI ?](pregpt/what-is-pregpt.md)
 * [🤖 How to use PreGPT](pregpt/how-to-use-pregpt.md)
 * [❓ PreGPT FAQ](pregpt/faq/README.md)
   * [General usage](pregpt/faq/general-usage.md)
-  * [Subscription](pregpt/faq/why-are-my-reward-tokens-not-increasing-when-i-search.md)
-  * [Service operation](pregpt/faq/why-are-my-reward-tokens-not-increasing-when-i-search-1.md)
-  * [AI model limitations](pregpt/faq/why-are-my-reward-tokens-not-increasing-when-i-search-2.md)
-  * [Roadmap & Improvements](pregpt/faq/why-are-my-reward-tokens-not-increasing-when-i-search-3.md)
+  * [Subscription](pregpt/faq/subscription.md)
+  * [Service operation](pregpt/faq/service-operation.md)
+  * [AI model limitations](pregpt/faq/ai-model-limitations.md)
+  * [Roadmap & Improvements](pregpt/faq/roadmap-and-improvements.md)
   * [Policy](pregpt/faq/policy.md)
 
 ## Nodes

@@ -2,8 +2,10 @@
 
 Your API key can be found at the bottom of the node dashboard page for any of your nodes: [https://nodes.presearch.com/dashboard](https://nodes.presearch.com/dashboard)
 
-{% swagger baseUrl="https://nodes.presearch.com" path="/api/nodes/status/:api_key" method="get" summary="Node Status API" %}
-{% swagger-description %}
+## Node Status API
+
+<mark style="color:blue;">`GET`</mark> `https://nodes.presearch.com/api/nodes/status/:api_key`
+
 Return the current status of all your nodes as well as (optionally) aggregated data for those nodes.\
 \
 **Notes:**\
@@ -11,47 +13,27 @@ Return the current status of all your nodes as well as (optionally) aggregated d
 \
 \* Replace **:api\_key** with your API key. For example: _/api/nodes/status/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX_\
 
-{% endswagger-description %}
 
-{% swagger-parameter in="path" name="api_key" type="string" %}
-Your personal Node API key (this can be found at the bottom of the node dashboard page for any of your nodes: https://nodes.presearch.org/dashboard
-{% endswagger-parameter %}
+#### Path Parameters
 
-{% swagger-parameter in="query" name="public_keys" type="string" %}
-A comma-separated list of node public keys.  If this parameter is specified, only those nodes will be returned.  This parameter overrides the connected, disconnected, and include\_inactive parameters (ie: if the specified nodes are found they will be returned regardless of their current status).
-{% endswagger-parameter %}
+| Name     | Type   | Description                                                                                                                                         |
+| -------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| api\_key | string | Your personal Node API key (this can be found at the bottom of the node dashboard page for any of your nodes: https://nodes.presearch.org/dashboard |
 
-{% swagger-parameter in="query" name="start_date" type="string" %}
-UTC date/time in ANSI format (Y-m-d H:i) - Start of reporting period for any node activity and stats.\
-(Default: 24 hours before current time)
-{% endswagger-parameter %}
+#### Query Parameters
 
-{% swagger-parameter in="query" name="end_date" type="string" %}
-UTC date/time in ANSI format (Y-m-d H:i) - End of reporting period for any node activity and stats.\
-(Default: current time)
-{% endswagger-parameter %}
+| Name              | Type    | Description                                                                                                                                                                                                                                                                                              |
+| ----------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| public\_keys      | string  | A comma-separated list of node public keys.  If this parameter is specified, only those nodes will be returned.  This parameter overrides the connected, disconnected, and include\_inactive parameters (ie: if the specified nodes are found they will be returned regardless of their current status). |
+| start\_date       | string  | <p>UTC date/time in ANSI format (Y-m-d H:i) - Start of reporting period for any node activity and stats.<br>(Default: 24 hours before current time)</p>                                                                                                                                                  |
+| end\_date         | string  | <p>UTC date/time in ANSI format (Y-m-d H:i) - End of reporting period for any node activity and stats.<br>(Default: current time)</p>                                                                                                                                                                    |
+| stats             | boolean | <p>true|false - Whether or not to include aggregated historical stats for the nodes returned. Dates to aggregate between are specified with the start_date and end_date parameters.<br>(Default: false)</p>                                                                                              |
+| connected         | boolean | <p>true|false - Currently connected nodes should be included in the returned list<br>(Default: true)</p>                                                                                                                                                                                                 |
+| disconnected      | boolean | <p>true|false - Currently disconnected nodes should be included in the returned list<br>(Default: true)</p>                                                                                                                                                                                              |
+| include\_inactive | boolean | <p>true|false - whether to also include nodes that haven't been active during the specified timeframe set by start_date and end_date<br>(Default: false)</p>                                                                                                                                             |
 
-{% swagger-parameter in="query" name="stats" type="boolean" %}
-true|false - Whether or not to include aggregated historical stats for the nodes returned. Dates to aggregate between are specified with the start\_date and end\_date parameters.\
-(Default: false)
-{% endswagger-parameter %}
-
-{% swagger-parameter in="query" name="connected" type="boolean" %}
-true|false - Currently connected nodes should be included in the returned list\
-(Default: true)
-{% endswagger-parameter %}
-
-{% swagger-parameter in="query" name="disconnected" type="boolean" %}
-true|false - Currently disconnected nodes should be included in the returned list\
-(Default: true)
-{% endswagger-parameter %}
-
-{% swagger-parameter in="query" name="include_inactive" type="boolean" %}
-true|false - whether to also include nodes that haven't been active during the specified timeframe set by start\_date and end\_date\
-(Default: false)
-{% endswagger-parameter %}
-
-{% swagger-response status="200: OK" description="Nodes successfully retrieved
+{% tabs %}
+{% tab title="200: OK Nodes successfully retrieved
 
 Notes:
 * All dates are returned in Zulu format (UTC)
@@ -110,21 +92,21 @@ Notes:
     }
 }
 ```
-{% endswagger-response %}
+{% endtab %}
 
-{% swagger-response status="401: Unauthorized" description="Request contains a missing or incorrect API key" %}
+{% tab title="401: Unauthorized Request contains a missing or incorrect API key" %}
 ```
 ```
-{% endswagger-response %}
+{% endtab %}
 
-{% swagger-response status="429: Too Many Requests" description="You have exceeded the rate limits for the specified node(s) or API key" %}
+{% tab title="429: Too Many Requests You have exceeded the rate limits for the specified node(s) or API key" %}
 ```javascript
 {
     // Response
 }
 ```
-{% endswagger-response %}
-{% endswagger %}
+{% endtab %}
+{% endtabs %}
 
 ### API Request Rate Limits:
 
