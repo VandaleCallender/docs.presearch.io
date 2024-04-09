@@ -1,5 +1,5 @@
 ---
-description: Presearch's latest generative & privacy focused AI chatbot
+description: Presearch's latest privacy focused generative AI chatbot
 ---
 
 # ⭐ What is PreGPT AI ?
