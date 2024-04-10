@@ -18,7 +18,7 @@ We're committed to continuously improving PreGPT, including UI enhancements and 
 
 ## Where can I find the PreGPT roadmap?
 
-Stay updated with our developments by checking our roadmap [here](https://chat.openai.com/c/3c67acc0-3ff3-4878-86b0-cbd8e4e22082).
+Stay updated with our developments by checking our roadmap [here](https://app-rm.roadmunk.com/publish/5a4a54ceb3cd5f36d688a93757a91d48b7aaeee9).
 
 ## Is there an API Available?
 
