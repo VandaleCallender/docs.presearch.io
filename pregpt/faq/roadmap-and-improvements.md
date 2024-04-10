@@ -12,10 +12,6 @@ We're committed to continuously improving PreGPT, including UI enhancements and 
 
 Integration with the Presearch search engine is in the pipeline.
 
-## What are the plans for future updates?
-
-We're committed to continuously improving PreGPT, including UI enhancements and new features as outlined in our roadmap.  See next question.
-
 ## Where can I find the PreGPT roadmap?
 
 Stay updated with our developments by checking our roadmap [here](https://app-rm.roadmunk.com/publish/5a4a54ceb3cd5f36d688a93757a91d48b7aaeee9).
