@@ -107,6 +107,7 @@
   * [How to claim search rewards](search-staking-and-usage-rewards/what-are-usage-rewards/how-to-claim-search-rewards.md)
 * [❓ Search Staking FAQ](search-staking-and-usage-rewards/search-staking-faq/README.md)
   * [How to use Search staking ?](search-staking-and-usage-rewards/search-staking-faq/how-to-use-search-staking.md)
+  * [How to use the calculator for Search Stake](search-staking-and-usage-rewards/search-staking-faq/how-to-use-the-calculator-for-search-stake.md)
 
 ## Support
 
