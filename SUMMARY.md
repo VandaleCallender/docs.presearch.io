@@ -10,6 +10,8 @@
   * [How to Buy PRE Tokens in the United States Using USD: A Comprehensive Guide](presearch-project/pre-purchasing-options/how-to-buy-pre-tokens-in-the-united-states-using-usd-a-comprehensive-guide.md)
   * [Supported Exchanges](presearch-project/pre-purchasing-options/supported-exchanges.md)
   * [Buy with Credit Card](presearch-project/pre-purchasing-options/buy-with-credit-card.md)
+  * [How to Swap PRE in Trust Wallet](presearch-project/pre-purchasing-options/how-to-swap-pre-in-trust-wallet.md)
+  * [How to Swap PRE in Metamask Wallet](presearch-project/pre-purchasing-options/how-to-swap-pre-in-metamask-wallet.md)
 * [🗺️ Roadmap](roadmap.md)
 * [❓ General FAQ](presearch-project/presearch-project-faq/README.md)
   * [Which blockchain do PRE Tokens operate on?](presearch-project/presearch-project-faq/which-blockchain-do-pre-tokens-operate-on.md)
@@ -93,9 +95,8 @@
 
 * [⭐ What is Keyword Staking?](keyword-staking/keyword-staking.md)
 * [🤝 Strategy for Staking PRE](keyword-staking/strategy-for-staking-pre.md)
-* [📦 ADs Pricing](keyword-staking/ads-pricing.md)
+* [📦 ADs Pricing - How much does it cost to advertise on Presearch ?](keyword-staking/ads-pricing.md)
 * [❓ Keywords FAQ](faq/keywords/README.md)
-  * [How much does it cost to advertise on Presearch ?](keyword-staking/keywords/how-much-does-it-cost-to-advertise-on-presearch.md)
   * [How can I see keywords traffic ?](keyword-staking/keywords/how-can-i-see-which-keywords-have-traffic.md)
   * [How to report bogus/abusive ADs from Keyword staking ?](keyword-staking/keywords/how-to-report-bogus-abusive-ads-from-keyword-staking.md)
 

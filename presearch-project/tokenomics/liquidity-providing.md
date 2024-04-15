@@ -27,3 +27,17 @@ Providing liquidity also comes with benefits. Uniswap charges 0.3% transaction f
 ## Benefits for the project
 
 By having more liquidity, PRE will be more accessible for larger clients, traders and new token holders.&#x20;
+
+## Medium links
+
+For more information on how to add liquidity to Uniswap, you can check out the official Medium article.
+
+{% embed url="https://medium.com/@presearch/join-us-in-strengthening-our-ecosystem-add-liquidity-to-pre-pairs-on-uniswap-e6b5ad407474" %}
+
+**Double Dip! Introducing LP Token Staking on Presearch: Bonus Incentives.**
+
+Presearch is excited to announce the launch of an LP (Liquidity Provider) token staking pool that will enable those providing liquidity on the Presearch Uniswap trading pairs to collect additional incentives in the form of PRE bonuses.
+
+For more information, please check out our latest Medium post:
+
+{% embed url="https://medium.com/@presearch/double-dip-introducing-lp-token-staking-on-presearch-enhance-your-earnings-154c8b065ca9" %}

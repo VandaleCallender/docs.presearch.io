@@ -1,17 +1,29 @@
----
-description: What costs can I expect for advertising ?
----
+# 📦 ADs Pricing - How much does it cost to advertise on Presearch ?
 
-# 📦 ADs Pricing
+Now, for just 0.066% per day, or about 2% per month, your keyword ad can guarantee you a prime spot at the top of the search results page.
 
-There is no spending of PRE tokens introduced yet, so no costs for clicks or ads being displayed.
+To activate subscription you just have to check the box as shown in the image below.
 
-During the initial launch phase of keyword staking program, estimated to last until end of 2023, Presearch charges no costs for advertising.
+<div align="left">
 
-That's right: no cost per click, no cost per impression, and no cost per action! Just real, quality traffic from more than 2.0m daily searches done by users who are cryptocurrency enthusiasts and internet power users. Enjoy!
+<figure><img src="../.gitbook/assets/image (125).png" alt="" width="290"><figcaption></figcaption></figure>
 
-You can start advertising at: [keywords.Presearch.com](https://keywords.presearch.com)
+</div>
 
-We expect to release more information about how we’ll proceed afterwards before the end of this time period.
+**Note:** If you don't want to pay the fee, you can uncheck the subscription box but your ad will remain at the bottom of the search results.
 
-> _Please note: you will be informed and we will not bill anyone without prior notice._
+Additionally, if you have the box active but do not have enough Pre in your Pre wallet to pay the daily amount, you will lose the privilege of appearing at the top of the results and the ad will be placed at the bottom automatically.
+
+The charge will be made daily to your Pre Wallet so make sure you have enough Pre there to cover the fees.
+
+You can check the deduction here:
+
+{% embed url="https://account.presearch.com/tokens/pre-wallet" %}
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (126).png" alt="" width="318"><figcaption></figcaption></figure>
+
+</div>
+
+Keyword Presearch can be accessed at [https://keywords.presearch.com/](https://keywords.presearch.com/)

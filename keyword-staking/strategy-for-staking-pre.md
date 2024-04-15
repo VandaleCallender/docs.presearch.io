@@ -25,7 +25,7 @@ There are essentially two ways to approach the opportunity:
 
 Either way, you need to identify keywords and prepare to stake them, but in the second approach, you’re going to spend more time sorting through affiliate offers to see if any match the potential keywords that you come up with.
 
-## **Doing keyword research** <a href="#47fd" id="47fd"></a>
+## **Doing keyword research** <a href="#id-47fd" id="id-47fd"></a>
 
 In either case, you’re going to want to do as much keyword research as you can to identify terms that are relevant to the offer you want to provide.
 
@@ -51,9 +51,9 @@ A really basic trick that works well for identifying the popularity of search te
 
 Google Trends is another handy tool for discovering new and trending topics: [https://trends.google.com/trends](https://trends.google.com/trends/?geo=US)
 
-## **Staking research** <a href="#928d" id="928d"></a>
+## **Staking research** <a href="#id-928d" id="id-928d"></a>
 
-As you start to compile your list of potential keywords, you’ll now want to head over to the Presearch [Keyword Staking platform](https://medium.com/@presearch/what-is-keyword-staking-b063324a2e85) (launching on January 29th, 2020) and research which words have already been staked and at which level.
+As you start to compile your list of potential keywords, you’ll now want to head over to the Presearch [Keyword Staking platform](https://medium.com/@presearch/what-is-keyword-staking-b063324a2e85) (released on January 29th, 2020) and research which words have already been staked and at which level.
 
 ![Image for post](https://miro.medium.com/max/6720/1\*NkAaQRaLJXooP6Bx9EcOrg.png)
 
@@ -87,7 +87,7 @@ As mentioned in the [How Keyword Staking Works](https://medium.com/@presearch/wh
 
 Now that you know how to identify keywords and understanding how the staking platform and ad ranking system works, you’re ready to explore staking strategy
 
-## **Staking Strategy** <a href="#4b51" id="4b51"></a>
+## **Staking Strategy** <a href="#id-4b51" id="id-4b51"></a>
 
 Your staking strategy will vary depending on whether you already have significant token holdings that you are looking to deploy, or if you don’t own many PRE yet and are looking for traffic with minimal cost to acquire tokens.
 
@@ -103,7 +103,7 @@ For example, let’s say you find an offer for bitcoin wallets that you really l
 
 The really accurate term for the type of searcher you’re targeting is more specific anyway, so you identify “bitcoin wallet” and decide to stake more than the current leader so you can win that term.
 
-You then also start looking for other terms that might not be staked yet, which you can get for the minimum amount, which is currently 1,000 PRE per term.
+You then also start looking for other terms that might not be staked yet, which you can get for the minimum amount, which is currently 100 PRE per term.
 
 You go to Google and do some quick research, typing in “Bitcoin Wallet”.
 
@@ -131,11 +131,11 @@ Then, once others start staking those keywords and squeeze you out of the top po
 
 We’ll go into this in more detail in a future post, but in the meantime, if you have questions, we suggest joining our Telegram community and asking questions to the admins and members there about how best to meet your traffic goals.
 
-## **Staking Your First Keyword** <a href="#9c4d" id="9c4d"></a>
+## **Staking Your First Keyword** <a href="#id-9c4d" id="id-9c4d"></a>
 
 Once you’ve identified your words and your strategy, you’re going to go in and start staking terms.
 
-You do this by accessing the Keyword Staking portal (launching on January 29th, 2020) and searching for your words in the field provided.
+You do this by accessing the Keyword Staking portal (released on January 29th, 2020) and searching for your words in the field provided.
 
 ![Image for post](https://miro.medium.com/max/6720/1\*qH3J9efW8y4Ho7008AxqiQ.png)
 
