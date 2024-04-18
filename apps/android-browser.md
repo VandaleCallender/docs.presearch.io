@@ -2,7 +2,7 @@
 description: Information about our Android Browser
 ---
 
-# Android Browser
+# 🤖 Android Browser
 
 You can download the android app on the Google Play store here - [**https://play.google.com/store/apps/details?id=com.presearch**](https://play.google.com/store/apps/details?id=com.presearch)
 

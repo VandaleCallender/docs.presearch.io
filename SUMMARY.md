@@ -117,14 +117,14 @@
 
 ## NFTs
 
-* ["The Road to Mainnet"](nfts/the-road-to-mainnet.md)
-* [Supported Wallets](nfts/supported-wallets.md)
+* [🛣️ "The Road to Mainnet"](nfts/the-road-to-mainnet.md)
+* [💻 Supported Wallets](nfts/supported-wallets.md)
 
 ## Community
 
-* [Presearch Community Forum](community/presearch-community-forum.md)
-* [Community Projects](community/community-projects.md)
-* [Community Tutorials](community/community-tutorials/README.md)
+* [👥 Presearch Community Forum](community/presearch-community-forum.md)
+* [🛠️ Community Projects](community/community-projects.md)
+* [🧑‍🏫 Community Tutorials](community/community-tutorials/README.md)
   * [Intense Investor](community/community-tutorials/intense-investor.md)
   * [Martin Valk](community/community-tutorials/martin-valk.md)
   * [Your Friend Andy](community/community-tutorials/your-friend-andy.md)
@@ -138,5 +138,5 @@
 
 ## apps
 
-* [iOS](apps/ios.md)
-* [Android Browser](apps/android-browser.md)
+* [📱 iOS](apps/ios.md)
+* [🤖 Android Browser](apps/android-browser.md)
