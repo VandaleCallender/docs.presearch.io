@@ -4,14 +4,20 @@ description: About Presearch token - PRE
 
 # 🪙 Tokenomics
 
-## About PRE token
+## About PRE (Presearch) token
 
 {% hint style="info" %}
 **Ticker: PRE**
 
-**Contract address:** `0xEC213F83defB583af3A000B1c0ada660b1902A0F`
+**Contract address:**&#x20;
 
-**Blockchain list: Ethereum (ERC-20)**
+* **Ethereum:** `0xEC213F83defB583af3A000B1c0ada660b1902A0F`
+* **Base:** `0x3816dD4bd44c8830c2FA020A5605bAC72FA3De7A`
+
+**Blockchain list:**
+
+* Etherscan ([link](https://etherscan.io/address/0xEC213F83defB583af3A000B1c0ada660b1902A0F))
+* Basescan ([link](https://basescan.org/token/0x3816dd4bd44c8830c2fa020a5605bac72fa3de7a))
 {% endhint %}
 
 PRE is a utility and reward token of Presearch platform. PRE token has a technical max supply set to 1 billion tokens. Current supply is set to 500 million and contract allows minting and burning of tokens.
