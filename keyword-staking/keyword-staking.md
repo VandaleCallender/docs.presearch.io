@@ -34,7 +34,7 @@ This means that if you [**buy PRE tokens**](https://marketplace.presearch.org/),
 
 ## Keyword consumption fee <a href="#b7a3" id="b7a3"></a>
 
-&#x20;At this time, for 0.066% daily or approximately 2% monthly of the total amount of the PRE in Staking of a keyword you will be able to have a privileged place for your ad to be displayed at the top of the search results, in that sense if you have a keyword with a Stake of 20,000.00 PRE will look like this: 0.066% of 20,000.00 PRE is = 13.2 PRE per day or 396 PRE in 30 days. These Pre will be deducted daily from the Pre wallet automatically: [https://account.presearch.com/tokens/pre-wallet](https://account.presearch.com/tokens/pre-wallet)
+&#x20;At this time, for 0.033% daily or approximately 1% monthly of the total amount of the PRE in Staking of a keyword you will be able to have a privileged place for your ad to be displayed at the top of the search results, in that sense if you have a keyword with a Stake of 20,000.00 PRE will look like this: 0.033% of 20,000.00 PRE is = 13.2 PRE per day or 396 PRE in 30 days. These Pre will be deducted daily from the Pre wallet automatically: [https://account.presearch.com/tokens/pre-wallet](https://account.presearch.com/tokens/pre-wallet)
 
 If you choose not to pay the daily fee, your ad will be placed at the bottom of the search results.
 

@@ -1,14 +1,12 @@
 # 📦 ADs Pricing - How much does it cost to advertise on Presearch ?
 
-Now, for just 0.066% per day, or about 2% per month, your keyword ad can guarantee you a prime spot at the top of the search results page.
+Now, for just 0.033% per day, or about 1% per month, your keyword ad can guarantee you a prime spot at the top of the search results page.
 
 To activate subscription you just have to check the box as shown in the image below.
 
-<div align="left">
+<figure><img src="../.gitbook/assets/key.jpg" alt="" width="350"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (125).png" alt="" width="290"><figcaption></figcaption></figure>
 
-</div>
 
 **Note:** If you don't want to pay the fee, you can uncheck the subscription box but your ad will remain at the bottom of the search results.
 

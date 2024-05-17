@@ -5,7 +5,7 @@ description: >-
   affiliated in any way to these projects.
 ---
 
-# Community Projects
+# 🛠️ Community Projects
 
 Presearch Lending
 

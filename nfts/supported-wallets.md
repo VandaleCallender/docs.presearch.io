@@ -1,4 +1,4 @@
-# Supported Wallets
+# 💻 Supported Wallets
 
 Occasionally, Presearch releases NFTs on its platform. Some are given away for free to community members, and some (in the future) may be available for sale for certain benefits or utility.
 
