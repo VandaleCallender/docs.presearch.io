@@ -13,6 +13,7 @@
   * [How to Swap PRE in Trust Wallet](presearch-project/pre-purchasing-options/how-to-swap-pre-in-trust-wallet.md)
   * [How to Swap PRE in Metamask Wallet](presearch-project/pre-purchasing-options/how-to-swap-pre-in-metamask-wallet.md)
 * [🗺️ Roadmap](roadmap.md)
+* [🛡️ Web3 - Safety, Troubleshooting & Best practices](presearch-project/web3-safety-troubleshooting-and-best-practices.md)
 * [❓ General FAQ](presearch-project/presearch-project-faq/README.md)
   * [Which blockchain do PRE Tokens operate on?](presearch-project/presearch-project-faq/which-blockchain-do-pre-tokens-operate-on.md)
   * [How many tokens can I buy?](presearch-project/presearch-project-faq/how-many-tokens-can-i-buy.md)
