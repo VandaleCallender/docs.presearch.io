@@ -41,3 +41,9 @@ Presearch is excited to announce the launch of an LP (Liquidity Provider) token 
 For more information, please check out our latest Medium post:
 
 {% embed url="https://medium.com/@presearch/double-dip-introducing-lp-token-staking-on-presearch-enhance-your-earnings-154c8b065ca9" %}
+
+## Youtube link
+
+**Presearch: Uniswap PRE LP & Double Dip With LP Token Staking Tutorial**&#x20;
+
+{% embed url="https://youtu.be/QVonc4beLZs?si=qVXr40wd0xitVbYG" %}

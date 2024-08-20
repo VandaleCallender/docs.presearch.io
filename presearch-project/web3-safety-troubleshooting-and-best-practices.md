@@ -62,7 +62,9 @@ Pro-Tips:
 
 ### 4. Liquidity Providing Issues
 
-§  See our Tutorial Video here: [https://www.youtube.com/watch?v=97qHitktb94](https://www.youtube.com/watch?v=97qHitktb94)
+§  See our Tutorial Video here:&#x20;
+
+{% embed url="https://youtu.be/97qHitktb94?si=tjyehhqp05oDQlkq" %}
 
 One Aerodrome specific issue is when you are trying to stake your liquidity after providing (depositing), you sometimes need to go to the dashboard and click the stake from there.  Without staking your LP in Aerodrome, you will not receive a portion of the AERO emissions.
 
